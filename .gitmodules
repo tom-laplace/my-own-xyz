@@ -1,0 +1,3 @@
+[submodule "my-own-shell/codecrafters-shell-java"]
+	path = my-own-shell/codecrafters-shell-java
+	url = https://git.codecrafters.io/ddf548194c998939
