@@ -1,4 +1,4 @@
-import { UnsortedArray } from "../src/structures/unsorted_array";
+import { UnsortedArray } from "../../src/arrays/unsorted_array";
 
 describe("Unsorted Array", () => {
   describe("insert element", () => {

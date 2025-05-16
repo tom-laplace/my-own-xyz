@@ -4,7 +4,7 @@ export class UnsortedArray<T> {
   private _size: number;
 
   public constructor(maxSize: number) {
-    this._array = new Array(maxSize);
+    this._array = new Array<T>(maxSize);
     this._maxSize = maxSize;
     this._size = 0;
   }
